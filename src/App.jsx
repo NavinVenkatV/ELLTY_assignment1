@@ -7,7 +7,6 @@ import "@fontsource/montserrat/400.css";
 
 
 function App() {
-
   return (
     <div className='flex flex-col py-10 bg-[#dedede] h-full'>
       <div className='flex justify-center gap-10'>
